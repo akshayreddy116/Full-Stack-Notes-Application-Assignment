@@ -1,0 +1,23 @@
+.preview {
+  width: 40%;
+  padding: 15px;
+  border-left: 1px solid #e6e6e6;
+  background: #ffffff;
+  overflow-y: auto;
+}
+
+.preview h1,
+.preview h2,
+.preview h3 {
+  color: #333;
+}
+
+.preview p {
+  line-height: 1.6;
+}
+
+.preview code {
+  background: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
