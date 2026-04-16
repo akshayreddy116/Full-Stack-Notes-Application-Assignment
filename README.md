@@ -40,7 +40,7 @@ A full-stack Markdown Notes App with real-time preview, CRUD operations, and per
 
 ### Database
 
-* PostgreSQL
+* SQLite
 
 ---
 
@@ -123,8 +123,5 @@ A full-stack Markdown Notes App with real-time preview, CRUD operations, and per
 
 * Frontend → Vercel
 * Backend → Render
-* Database - sqllite
-
-
 
 ---
