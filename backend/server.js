@@ -7,7 +7,7 @@ const notesRoutes = require("./routes/notes");
 const app = express();
 
 app.use(cors({
-  origin: "https://full-stack-notes-application-assignment.onrender.com",
+  origin: "https://full-stack-notes-application-assign.vercel.app",
 }));
 
 app.use(express.json());
